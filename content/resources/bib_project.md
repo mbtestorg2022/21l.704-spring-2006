@@ -8,6 +8,7 @@ description: This document is intended to provide general guidelines for the bib
   primary and secondary sources one has identified.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/3fe5b1a9171c05b1c74efd2d0a27e4ea_bib_project.pdf
 file_type: application/pdf
+parent_uid: 5bea5734-a935-f1d7-48b3-bb02ef605623
 resourcetype: Document
 title: bib_project.pdf
 uid: 3fe5b1a9-171c-05b1-c74e-fd2d0a27e4ea

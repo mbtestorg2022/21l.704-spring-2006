@@ -6,6 +6,7 @@ description: This document discusses the theme of immortality which pervades Sha
   questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/5d2a3fe978b4ed69b770a27b96cc4414_shakespeare_meg.pdf
 file_type: application/pdf
+parent_uid: 5bea5734-a935-f1d7-48b3-bb02ef605623
 resourcetype: Document
 title: shakespeare_meg.pdf
 uid: 5d2a3fe9-78b4-ed69-b770-a27b96cc4414
